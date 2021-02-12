@@ -1,3 +1,5 @@
+// JavaScript Application: 01
+// Author: Jermaine Deloach
 let num = prompt('Guess a number between 1 and 10');
 // alert('You guessed the number' + num);
 
